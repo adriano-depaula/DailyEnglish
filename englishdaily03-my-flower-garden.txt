@@ -1,0 +1,75 @@
+1. My name is Anne
+-------------------
+Meu nome é Anne
+
+2. I love flowers.
+------------------
+Eu amo flores
+
+3. I have a flower garden.
+--------------------------
+Eu tenho um jardim de flores
+
+4. My garden is in front of my house.
+-------------------------------------
+Meu jardim é na frente da minha casa.
+
+5. My neighbour has garden too.
+-------------------------------
+Meu vizinho também tem jardim.
+
+6. My garden has different types of flowers.
+--------------------------------------------
+Meu jardim tem diferentes tipos de flores.
+
+7. I have roses in my garden.
+-----------------------------
+Eu tenho rosas no meu jardim.
+
+8. I have tulips in my garden.
+------------------------------
+Tenho tulipas no meu jardim.
+
+9. I have petunias in my garden.
+--------------------------------
+Tenho petúnias no meu jardim.
+
+10. My garden has different colors.
+-----------------------------------
+Meu jardim tem cores diferentes.
+
+11. I plant red flowers.
+------------------------
+Eu planto flores vermelhas
+
+12. I plant orange flowers
+---------------------------
+Eu planto flores de laranja
+
+13. I plant blue flowers.
+-------------------------
+Eu planto flores azuis
+
+14. I plant purple flowers
+---------------------------
+Eu planto flores roxas
+
+15. I take care of my garden
+----------------------------
+Eu cuido do meu jardim
+
+16. I water my garden every day.
+--------------------------------
+Rego meu jardim todos os dias.
+
+17. I kill the weeds in my garden
+----------------------------------
+Eu mato as ervas daninhas no meu jardim
+
+18. I kill insects that eat my flowers.
+---------------------------------------
+Eu mato insetos que comem minhas flores.
+
+19. I love my beautiful garden.
+-------------------------------
+Eu amo meu lindo jardim.
