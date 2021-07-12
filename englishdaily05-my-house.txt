@@ -1,1 +1,83 @@
-My house
+1. I live in a house.
+---------------------
+Eu moro em uma casa
+
+2. My house is small.
+---------------------
+Minha casa é pequena.
+
+3. My house has two bedrooms.
+-----------------------------
+Minha casa tem dois quartos.
+
+4. My Mom and Dad sleep in one bedroom.
+----------------------------------------
+Minha mãe e meu pai dormem em um quarto.
+
+5. My sister and I share the other bedroom.
+--------------------------------------------
+Minha irmã e eu dividimos o outro quarto.
+
+6. My house has a kitchen.
+--------------------------
+Minha casa tem cozinha.
+
+7. My Mom and Dad cook dinner there every night.
+-------------------------------------------------
+Minha mãe e meu pai fazem o jantar lá todas as noites.
+
+8. My house has a living room.
+-------------------------------
+Minha casa tem uma sala de estar
+
+9. My family watches television there every night.
+---------------------------------------------------
+Minha família assiste televisão lá todas as noites.
+
+10. My house has a big bathroom.
+---------------------------------
+Minha casa tem um banheiro grande.
+
+11. My house has a lot of closets.
+-----------------------------------
+Minha casa tem muitos armários.
+
+12. My house has a basement.
+-----------------------------
+Minha casa tem um porão.
+
+13. My Dad has a workshop in the basement.
+-------------------------------------------
+Meu pai tem uma oficina no porão.
+
+14. My Dad makes wood furniture.
+--------------------------------
+Meu pai faz móveis de madeira.
+
+15. My house does not have a second floor.
+-------------------------------------------
+Minha casa não tem segundo andar.
+
+16. My house has a garage.
+---------------------------
+Minha casa tem garagem.
+
+17. My house has a big backyard.
+---------------------------------
+Minha casa tem um grande quintal.
+
+18. My backyard has a maple tree.
+----------------------------------
+Meu quintal tem uma árvore de bordo.
+
+19. My backyard has a swimming pool.
+-------------------------------------
+Meu quintal tem piscina.
+
+20. My backyard has a vegetable garden.
+----------------------------------------
+Meu quintal tem uma horta.
+
+21. My family likes our house.
+-------------------------------
+Minha família gosta de nossa casa.
