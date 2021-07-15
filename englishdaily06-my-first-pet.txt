@@ -1,0 +1,83 @@
+1. My name is Sarah.
+-----------------
+Meu nome é Sarah.
+
+2. I am fourteen years old.
+----------------------------
+Eu tenho 14 anos de idade.
+
+3. I have a pet cat.
+---------------------
+Eu tenho um gato de estimação.
+
+4. My cat's name is Milo.
+--------------------------
+O nome do meu gato é Milo.
+
+5. My cat is black and white.
+------------------------------
+Meu gato é preto e branco.
+
+6. Milo's paws are white.
+--------------------------
+As patas de Milo são brancas.
+
+7. Milo's body is black.
+-------------------------
+O corpo de Milo é preto.
+
+8. She is very cute.
+---------------------
+Ela é muito fofa.
+
+9. Milo's fur is very soft.
+----------------------------
+O pelo de Milo é muito macio.
+
+10. Milo was a very small kitten.
+-------------------------------
+Milo era um gatinho muito pequeno.
+
+11. Milo is a very big cat.
+----------------------------
+Milo é um gato muito grande.
+
+12. Milo cannot have kittens.
+-----------------------------
+Milo não pode ter gatinhos
+
+13. She is fixed.
+------------------
+Ela é castrada.
+
+14. Milo likes to eat.
+------------------------
+Milo gosta de comer.
+
+15. Milo likes to play outside.
+--------------------------------
+Milo gosta de brincar ao ar livre.
+
+16. Milo likes to hunt for birds.
+----------------------------------
+Milo gosta de caçar pássaros.
+
+17. Milo likes to hunt for mice.
+---------------------------------
+Milo gosta de caçar ratos.
+
+18. She likes her ears scratched.
+----------------------------------
+Ela gosta de ter as orelhas arranhadas.
+
+19. Milo likes to sit in my lap.
+---------------------------------
+Milo gosta de se sentar no meu colo.
+
+20. Milo likes to sleep on my bed.
+-----------------------------------
+Milo gosta de dormir na minha cama.
+
+21. Milo is a good pet.
+------------------------
+Milo é um bom animal de estimação.
